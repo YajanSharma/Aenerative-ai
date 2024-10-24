@@ -1,1 +1,1 @@
-# Aenerative-ai
+# generative-ai
